@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<meta name="description" content="網際網路實務">
+<meta name="keywords" content="作業四">
+<meta name="author" content="李忠瀚">
+<meta http-equiv="refresh" content="10">
+<title>10804103-4</title>
+
+</head>
+<body style="background-color:lightgrey;text-align:center">
+
+<div style="height:160px;background-color:#f9c81e;text-align:center; padding:1em">
+
+<h1 style="font-size:300%">推薦番劇時間表</h1>
+</div>
+
+
+<table border="5">
+<caption>番劇時間表 </caption>	
+<tr>
+<th> 年份 </th>	
+<th> 日文名稱 </th>
+<th> 播出時間 </th>
+</tr>
+
+<tr>
+<td> 2003年 </td>
+<td> フルメタル·パニック？ふもっふ </td>
+<td> 8月－11月 </td>
+</tr>
+
+<tr>
+<td> 2005年 </td>>
+<td> AIR </td>
+<td> 1月－3月 </td>
+</tr>
+
+<tr>
+<td> 2005年 </td>
+<td> フルメタル·パニック！ </td>
+<td> 7月－10月 </td>
+</tr>
+
+<tr>
+<td> 2006年 </td>
+<td> 涼宮ハルヒの憂鬱 (2006年版) </td>
+<td> 4月－7月 </td>
+</tr>
+
+<tr>
+<td> 2006年 </td>
+<td> Kanon </td>
+<td>10月－2007年3月</td>
+</tr>
+
+<tr>
+<td> 2007年 </td>	
+<td> らき☆すた </td>
+<td> 4月－9月 </td>
+</tr>
+
+<tr>
+<td> 2007年 </td>	
+<td> CLANNAD </td>
+<td> 10月－2008年3月 </td>
+</tr>
+
+<tr>
+<td> 2008年 </td>	
+<td> CLANNAD AFTER STORY </td>
+<td> 10月－2009年3月 </td>
+</tr>
+
+<tr>
+<td> 2009年 </td>	
+<td> 空を見上げる少女の瞳に映る世界 </td>
+<td> 1月－3月 </td>
+</tr>
+
+<tr> 
+<td> 2009年 </td>	
+<td> 涼宮ハルヒの憂鬱 (2009年版) </td>
+<td> 4月－10月 </td>
+</tr>
+
+<tr>
+<td> 2009年 </td>	
+<td> けいおん！ </td>
+<td> 4月－6月 </td>
+</tr>
+
+<tr>
+<td> 2010年 </td>	
+<td> けいおん！！ </td>	
+<td> 4月－9月 </td>
+</tr>
+
+<tr>
+<td> 2011年 </td>
+<td> 日常 </td>	
+<td> 4月－9月 </td>
+</tr>
+
+<tr>
+<td> 2012年 </td>       
+<td> 氷菓 </td>
+<td> 4月－9月 </td>
+</tr>
+
+<tr>
+<td> 2012年 </td>
+<td> 中二病でも恋がしたい！ </td>
+<td> 10月－12月 </td>
+</tr>
+
+</table>
+
+
+<div style="height:75px;background-color:#f9c81e;text-align:center; padding:1em">
+<h1>END</h1>
+</div>
+
+
+
+
+
+
+</body>
+</html>
