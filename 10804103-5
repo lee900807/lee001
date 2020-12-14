@@ -1,0 +1,33 @@
+<style>
+#header {height:100px;background-color:#f9c81e; padding:1em}
+#nav{float:left; width:20%; height:1200px; background-color:lightyellow}
+ul {list-style-type:none;}
+li {font-size:20px; line-height: 1.8;}
+#article {float:right; width:80%; height:1200px}
+#footer {clear:both;height:50px;text-align:center;background-color:#f9c81e}
+</style>
+<body>
+<div id="header"><h1>番劇時間表</h1></div>
+<div id="nav"><ul>
+<li><a href="#home">首頁</a></li>
+<li><a href="#news">新增</a></li>
+</ul></div>
+<div id="article"><h1>咒術迴戰</h1>
+
+<img src="咒術.jpg"width="400"height="600"=/>
+
+<p>簡介：故事描述體育萬能的高中生虎杖悠仁為了解救被「咒物」纏上的學長姊，而吞下了詛咒的手指，讓「宿儺」詛咒與自己合而為一。虎杖得知只有自己能對付宿儺之後，他加入了咒術師養成學校「東京咒術高專」，學習祓除咒靈，實現爺爺要他助人的遺言。</p>
+<p>原作：芥見下々</p>
+<p>製作公司：MAPPA</p>
+<p>監督：朴 性厚</p>
+<p>聲優</p>
+<p>虎杖悠仁：榎木淳弥</p>
+<p>伏黒 恵：内田雄馬</p>
+<p>釘崎野薔薇：瀬戸麻沙美</p>
+<p>五条 悟：中村悠一</p>
+<p>パンダ：関 智一</p>
+
+</div>
+
+<div id="footer"><h1>Footer</h1></div>
+</body>
